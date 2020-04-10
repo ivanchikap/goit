@@ -113,6 +113,21 @@ textarea {
     flex: 0 0 33.3333%;
     padding: 0 15px;
 }
+.card::before {
+   content: "";
+    display: inline-block;
+    width: 57px;
+    height: 57px;
+}
+.card-commerce::before {
+    background: url("img/Icon-Basket.png") no-repeat center / cover;
+}
+.card-security::before {
+    background: url("img/Icon-Locked.png") no-repeat center / cover;
+}
+.card-responsive::before {
+    background: url("img/Icon-Laptop.png") no-repeat center / cover;
+}
 .card:not(:nth-of-type(-n+3)) {
     margin-top: 30px;
 }
@@ -121,6 +136,7 @@ textarea {
     color: #222222;
     font-size: 18px;
     font-weight: 700;
+    margin-top: 20px;
     margin-bottom: 14px;
 }
 
