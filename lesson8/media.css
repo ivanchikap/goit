@@ -1,0 +1,54 @@
+@media screen and (min-width: 0) {
+    .container {
+        max-width: 320px;
+    }
+}
+
+@media screen and (min-width: 0) and (max-width: 767px) {
+    .header-logo {
+        display: none;
+    }
+    .card {
+        margin-bottom: 26px;
+    }
+    .btn {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 710px;
+    }
+    .banner-logo {
+        display: none;
+    }
+    .banner-title {
+        font-size: 52px;
+    }
+    .banner-subtitle {
+        font-size: 24px;
+        margin-top: 24px;
+        margin-bottom: 34px;
+    }
+    .partners-list {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: -20px;
+        margin-right: -20px;
+    }
+    .partner-card {
+        width: 50%;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media screen and (min-width: 940px) {
+    .container {
+        max-width: 970px;
+    }
+    .partner-card {
+        width: 25%;
+    }
+}

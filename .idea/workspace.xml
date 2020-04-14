@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c663acb7-cbb8-4c29-b26c-f4e1b041afd3" name="Default Changelist" comment="">
+    <list default="true" id="fb5b2c6f-84e2-48e7-b969-5b18f488a87a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson8/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,15 +12,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1aJA7xOicBcCofMgi5zSjg8crkh" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1aWGefhBWJt6Urv9dBjA368GoJ7" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson8" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Documents\education\goIT\www\lesson8" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,13 +51,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c663acb7-cbb8-4c29-b26c-f4e1b041afd3" name="Default Changelist" comment="" />
-      <created>1586443159649</created>
+      <changelist id="fb5b2c6f-84e2-48e7-b969-5b18f488a87a" name="Default Changelist" comment="" />
+      <created>1586844033803</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586443159649</updated>
-      <workItem from="1586443160866" duration="5013000" />
-      <workItem from="1586497257936" duration="1060000" />
+      <updated>1586844033803</updated>
+      <workItem from="1586844037583" duration="10483000" />
+      <workItem from="1586865112471" duration="1451000" />
     </task>
     <servers />
   </component>
