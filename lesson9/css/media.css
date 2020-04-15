@@ -1,0 +1,39 @@
+@media screen and (min-width: 0) {
+
+}
+
+@media screen and (min-width: 0) and (max-width: 767px) {
+    .header .col-12:last-child {
+        margin-bottom: 112px;
+    }
+    .banner {
+        padding-top: 78px;
+    }
+    .card {
+        margin-bottom: 26px;
+    }
+    .btn {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px) {
+
+    .banner-title {
+        font-size: 52px;
+    }
+    .banner-subtitle {
+        font-size: 24px;
+
+    }
+    .partners-list {
+
+    }
+    .partner-card {
+
+    }
+}
+
+@media screen and (min-width: 940px) {
+
+}

@@ -1,0 +1,220 @@
+/* reset start */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+body {
+    margin: 0;
+    color: #666;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover,
+a:active {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+button {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: inherit;
+}
+textarea {
+    resize: vertical;
+}
+/* reset end */
+
+/* default classes start*/
+.text-center {
+    text-align: center;
+}
+.text-white {
+    color: #fff !important;
+}
+.w-100 {
+    width: 100%;
+}
+.bg-red {
+    background-color: #ff4e50;
+}
+.bg-yellow {
+    background-color: #ffa507;
+}
+.bg-green {
+    background-color: #1cd7ad;
+}
+.bg-blue {
+    background-color: #4e73db;
+}
+/* default classes end*/
+
+/* default styles start*/
+.btn {
+    display: inline-block;
+    padding: 12px 18px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    border: 2px solid #ff4e50;
+    border-radius: 20px;
+    transition: all .3s ease-in;
+}
+.btn.btn--red {
+    background-color: #ff4e50;
+}
+.btn.btn--red:hover {
+    background-color: transparent;
+}
+.btn.btn--transparent {
+    background-color: transparent;
+    color: #ff4e50;
+}
+.btn.btn--transparent:hover {
+    background-color: #ff4e50;
+    color: #fff;
+}
+/* default styles end*/
+
+
+/* custom classes start*/
+.header {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    margin-top: 20px;
+    text-align: center;
+}
+.header-logo {
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.header-btn {
+    display: inline-block;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 10px 16px;
+    border-radius: 18px;
+    line-height: 1;
+    border: 2px solid transparent;
+    transition: border-color .3s ease;
+}
+.header-btn:hover,
+.header-btn:focus,
+.header-btn.active {
+    border-color: #ffffff;
+}
+.banner {
+    min-height: 540px;
+    background: #c3c3c3 url("../img/banner.png") no-repeat center / cover;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner-logo {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin-bottom: 32px;
+    display: block;
+}
+.banner-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -1.5px;
+}
+.banner-subtitle {
+    font-size: 18px;
+    margin-top: 14px;
+    margin-bottom: 26px;
+}
+.partners {
+    padding: 56px 0;
+}
+.partners-title {
+    margin-top: 10px;
+    color: #333333;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+}
+.partner-card {
+    margin: 15px 0;
+}
+.card-photo {
+    display: inline-block;
+    width: 121px;
+    height: 121px;
+    position: relative;
+    border-radius: 50%;
+}
+.card-label {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-radius: 50%;
+    width: 33px;
+    height: 33px;
+    line-height: 30px;
+    border: 4px solid #ffffff;
+}
+
+.card-label img {
+    width: 17px;
+    height: 17px;
+    line-height: 17px;
+    text-align: center;
+}
+.card-title {
+    color: #333333;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin: 18px 0 14px 0;
+    white-space: nowrap;
+}
+.partners .btn {
+    margin-top: 10px;
+}
+/* custom classes end*/
