@@ -121,6 +121,14 @@ textarea {
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
+    background-color: transparent;
+    transition: box-shadow .3s ease;
+    border-radius: 20px;
+    padding: 5px;
+}
+.header-logo:hover,
+.header-logo:focus {
+    box-shadow: 0 0 40px rgba(0, 0, 0, .1);
 }
 .header-btn {
     display: inline-block;
