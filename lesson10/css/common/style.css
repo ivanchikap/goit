@@ -1,0 +1,26 @@
+/* reset start */
+@import "reset.css";
+/* reset end */
+
+/* default classes start*/
+@import "default-classes.css";
+/* default classes end*/
+
+/* custom classes start*/
+@import "custom-classes.css";
+/* custom classes end*/
+
+/* flex start */
+@import "flex.css";
+/* flex end */
+
+@import "../nav/nav.css";
+
+@import "../banner/banner.css";
+
+@import "../default-section/default-section.css";
+
+@import "../service/service.css";
+/*font-family: 'Roboto', sans-serif;*/
+/*font-family: 'Montserrat', sans-serif;*/
+/*font-family: 'Kaushan Script', cursive;*/

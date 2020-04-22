@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb5b2c6f-84e2-48e7-b969-5b18f488a87a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson10/css/banner/banner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/css/common/custom-classes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/css/common/default-classes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/css/common/flex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/css/common/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/css/common/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/css/default-section/default-section.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/css/nav/nav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/css/service/service.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson10/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson9/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson9/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -24,13 +33,19 @@
   </component>
   <component name="ProjectId" id="1aWGefhBWJt6Urv9dBjA368GoJ7" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson10/css/common" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Documents\education\goIT\www\lesson10\css\banner" />
+      <recent name="C:\Users\Dell\Documents\education\goIT\www\lesson10\img\svg" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\Documents\education\goIT\www\lesson10\css\common" />
       <recent name="C:\Users\Dell\Documents\education\goIT\www\lesson8" />
     </key>
   </component>

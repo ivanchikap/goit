@@ -1,0 +1,26 @@
+.banner {
+    background: url("../../img/banner.png") no-repeat center / cover;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 96px;
+}
+.banner__inner {
+    max-width: 832px;
+    text-align: center;
+    padding: 0 15px 40px 15px;
+}
+.banner__subtitle {
+    color: #ffffff;
+    font-family: "Kaushan Script", cursive;
+    font-size: 72px;
+}
+.banner__title {
+    color: #ffffff;
+    font-size: 150px;
+    font-weight: 700;
+    line-height: 140px;
+    text-transform: uppercase;
+    margin: 2px 0 108px 0;
+}
